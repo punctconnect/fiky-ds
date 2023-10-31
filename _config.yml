@@ -22,7 +22,7 @@ title: PunctConnect
   #name: Ionel Patrascu
   #email: patrascuionel3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  PunctConnect is an innovative application that transforms the way you enjoy rewards and loyalty in stores. 
+  Revolutionizing Loyalty Rewards
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  punctconnect
