@@ -17,6 +17,10 @@ PunctConnect is an innovative application that transforms the way you enjoy rewa
 * **Role:** Backend Developer
 * **Email:** [alexandra@punctconnect.com](mailto:alexandra@punctconnect.com)
 
+### Bogdan Piele
+* **Role:** Backend Developer
+* **Email:** [bogdan@punctconnect.com](mailto:bogdan@punctconnect.com)
+
 ### Ionel Patrascu 
 * **Role:** Product Owner
 * **Email:** [ionel@punctconnect.com](mailto:ionel@punctconnect.com)
