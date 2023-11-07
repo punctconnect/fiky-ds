@@ -35,7 +35,7 @@ In today's digital age, consumers face the hassle of managing multiple loyalty p
 
 # Solution / Value Proposition
 
-PunctConnect offers a simple and elegant solution. It centralizes all your loyalty programs in one intuitive application, allowing users to seamlessly manage and track their rewards. By doing so, we aim to simplify the way consumers engage with their favorite stores, offering them a more convenient and rewarding shopping experience.
+PunctConnect offers a simple and elegant solution. It centralizes all your loyalty programs in one intuitive application, allowing users to manage and track their rewards seamlessly. By doing so, we aim to simplify the way consumers engage with their favorite stores, offering them a more convenient and rewarding shopping experience.
 
 # Customer Segments
 
@@ -80,7 +80,7 @@ Our primary revenue streams include:
 By addressing the project's key aspects in a clear and visually appealing manner, we aim to convey the essence of PunctConnect and the dedicated team behind it. For further inquiries, feel free to reach out to our team members via email. Thank you for considering PunctConnect as your loyalty rewards solution!
 
 # Identifying the problem
-We noticed the problem upon a combination of market research, feedback of the customers from various stores, and personal observation. In the initial phase, a series of questionnaires for frequent shoppers highlighted the frustration with managing multiple loyalty applications. 
+We noticed the problem upon a combination of market research, feedback from the customers from various stores, and personal observation. In the initial phase, a series of questionnaires for frequent shoppers highlighted the frustration with managing multiple loyalty applications. 
 By observing the market, we further confirmed that the average smartphone user is increasingly concerned about the number of apps they manage, and clutter is a growing problem.
 
 The increase in the number of apps has caused many people to feel exasperated, which describes the concept of [App Fatigue](https://www.storyly.io/post/too-many-apps-for-that-app-fatigue). Moreover, [it only takes a week](https://www.insiderintelligence.com/content/most-apps-get-deleted-within-a-week) for the average smartphone user to delete an app. At the same time, [30% of app downloads in North America—as measured by Tune’s customers between November 2017 and May 2018—were reinstalls](https://www.insiderintelligence.com/content/smartphone-users-are-reinstalling-apps-at-a-surprisingly-high-rate).
@@ -95,7 +95,7 @@ Moreover, certain platforms, such as Starbucks, only offer a web-like layout, wh
 
 While preinstalled solutions, such as Apple Wallet, include multiple cards, it is not possible to see the points balance or redeem rewards.
 
-<img src="images/apple.png" alt="Apple Wallet" width="200"/>
+<img src="images/apple.jpg" alt="Apple Wallet" width="200"/>
 
 # How to beat app fatigue
 The solution envisioned is PunctConnect, an app designed to consolidate various loyalty programs into one platform. By offering a centralized loyalty program management system, PunctConnect aims to reduce app clutter, save phone storage space, and simplify the user experience.
@@ -116,3 +116,22 @@ dentifying Customer Segments
 4. What features are most important to you in a loyalty program app?
 5. How often do you engage with loyalty programs weekly?
 6. How likely are you to switch to an app that consolidates all your loyalty programs?
+
+# Insights
+The full results of the survey are provided in the following [report](https://drive.google.com/file/d/1XY4y7p-2wnplP2ZGdmFMZ4Tz_4TacI1N/view?usp=sharing).
+* All of the participants use at least one loyalty program app. Moreover, more than 6 out of 10 use at least 2 apps.
+* People are mostly frustrated that they are not notified about the offfers of the store and that they have to install several apps. Therefore, our focus will be on these two aspects so that the users will not miss any offer.
+* Less than 3 out of 10 individuals do not care about the storage space issue on their phone. As a result, while we will take into account the storage space issue, it will not be a priority.
+* An overwhelming amount of people would appreciate that a loyalty program app should be easy to use. Moreover, they would like to be in touch with the newest offers of their favorite retailers.
+* ~90% of the participants use loyalty platforms at least once a week.
+* An overwhelming 90.5 percent of the participants would switch to an app that consolidates all their loyalty programs. Out of these, 52.4 percent would switch immediately.
+
+<img src="images/howlikely.png" alt="Likeliness" width="300"/> | <img src="images/frustrations.png" alt="Frustrations" width="300"/>
+
+# Customer Validation stage plans
+Given the insights obtained from customer discovery, it is reasonable to move to the customer validation stage. Here’s why:
+* Product-Market Fit: There is a clear need for the solution PunctConnect offers.
+* User Feedback: We now understand what future expectations are given the problems outlined by the users. Therefore, we can focus on tailoring the product to meet these expectations.
+* Market Research: We have compared our solution to the competition and their users. As a result, we can now build a viable solution that exceeds the expectations of the users and the competition.
+
+In the future, we want to develop a Minimum Viable Product so that the users can test it. We will gather feedback and the following iterations will ensure that the solution fits the needs of the users. By using metrics such as time spent on the app and how often the users access it, we will be able to measure the engagement of the users. Finally, we are ready to validate the assumptions about user behavior through real-world testing. 
