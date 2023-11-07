@@ -78,3 +78,41 @@ Our primary revenue streams include:
 # Connect with PunctConnect
 
 By addressing the project's key aspects in a clear and visually appealing manner, we aim to convey the essence of PunctConnect and the dedicated team behind it. For further inquiries, feel free to reach out to our team members via email. Thank you for considering PunctConnect as your loyalty rewards solution!
+
+# Identifying the problem
+We noticed the problem upon a combination of market research, feedback of the customers from various stores, and personal observation. In the initial phase, a series of questionnaires for frequent shoppers highlighted the frustration with managing multiple loyalty applications. 
+By observing the market, we further confirmed that the average smartphone user is increasingly concerned about the number of apps they manage, and clutter is a growing problem.
+
+The increase in the number of apps has caused many people to feel exasperated, which describes the concept of [App Fatigue](https://www.storyly.io/post/too-many-apps-for-that-app-fatigue). Moreover, [it only takes a week](https://www.insiderintelligence.com/content/most-apps-get-deleted-within-a-week) for the average smartphone user to delete an app. At the same time, [30% of app downloads in North America—as measured by Tune’s customers between November 2017 and May 2018—were reinstalls](https://www.insiderintelligence.com/content/smartphone-users-are-reinstalling-apps-at-a-surprisingly-high-rate).
+
+Looking into the Romanian market of applications, we found multiple platforms for  retailer chains, fast-food stores, and even jewelry shops.
+
+| <img src="images/lidl.jpeg" alt="Lidl" width="200"/>  |<img src="images/carrefour.jpeg" alt="Carrefour" width="200"/> | <img src="images/mac.jpeg" alt="McDonalds" width="200"/> | <img src="images/sephora.jpeg" alt="Sephora" width="200"/> 
+
+Moreover, certain platforms, such as Starbucks, only offer a web-like layout, which is not optimized for mobile devices. What is more, it requires the user to log in every time they want to access the platform.
+
+<img src="images/starbucks1.jpeg" alt="Starbucks1" width="200"/> | <img src="images/starbucks2.jpeg" alt="Starbucks2" width="200"/>
+
+While preinstalled solutions, such as Apple Wallet, include multiple cards, it is not possible to see the points balance or redeem rewards.
+
+<img src="images/apple.png" alt="Apple Wallet" width="200"/>
+
+# How to beat app fatigue
+The solution envisioned is PunctConnect, an app designed to consolidate various loyalty programs into one platform. By offering a centralized loyalty program management system, PunctConnect aims to reduce app clutter, save phone storage space, and simplify the user experience.
+
+# Customer discovery
+The customer discovery plan includes conducting surveys with numerous participants who frequently use loyalty programs. The goal is to understand their habits, preferences, and pain points. The survey will be conducted online, in a Google Form, and the participants will be recruited through social media. 
+dentifying Customer Segments
+
+
+* Demographics: Target customers who are frequent shoppers, both online and in physical stores, and who use smartphones.
+* Behaviors: Focus on those who actively participate in loyalty programs and have expressed frustration with the current system.
+* Outreach Methods: Utilize social media platforms and messaging apps to reach out to potential customers.
+
+## Questions for the Form
+1. How many loyalty program apps do you use regularly?
+2. What are your biggest frustrations with the current loyalty program apps?
+3. How important is storage space on your phone to you?
+4. What features are most important to you in a loyalty program app?
+5. How often do you engage with loyalty programs weekly?
+6. How likely are you to switch to an app that consolidates all your loyalty programs?
