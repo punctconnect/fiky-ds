@@ -137,4 +137,4 @@ Given the insights obtained from customer discovery, it is reasonable to move to
 In the future, we want to develop a Minimum Viable Product so that the users can test it. We will gather feedback and the following iterations will ensure that the solution fits the needs of the users. By using metrics such as time spent on the app and how often the users access it, we will be able to measure the engagement of the users. Finally, we are ready to validate the assumptions about user behavior through real-world testing. 
 
 # Landing page
-The customers are greeted with a straight-to-the-point, modern-designed [landing page](https://punctconnect.github.io/demo) designed to elevate their interaction with the platform.
+The customers are greeted with a straight-to-the-point, modernly-designed [landing page](https://punctconnect.github.io/demo) designed to elevate their interaction with the platform.
