@@ -142,4 +142,9 @@ The customers are greeted with a straight-to-the-point, modernly-designed [landi
 # Wireframe
 This is how we imagine the flow of the platform:
 
+SignUp page and dashboard:
 <img src="images/SignUpPage.png" alt="Likeliness" width="300"/> | <img src="images/DashBoard.png" alt="Frustrations" width="300"/>
+
+Loyalty programs directory and loyalty page for one store
+<img src="images/LoyaltyProgramDirectory.png" alt="Likeliness" width="300"/> | <img src="images/LoyaltyProgram1.png" alt="Frustrations" width="300"/>
+
