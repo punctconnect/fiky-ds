@@ -138,3 +138,8 @@ In the future, we want to develop a Minimum Viable Product so that the users can
 
 # Landing page
 The customers are greeted with a straight-to-the-point, modernly-designed [landing page](https://punctconnect.github.io/demo) designed to elevate their interaction with the platform.
+
+# Wireframe
+This is how we imagine the flow of the platform:
+
+<img src="images/SignUpPage.png" alt="Likeliness" width="300"/> | <img src="images/DashBoard.png" alt="Frustrations" width="300"/>
