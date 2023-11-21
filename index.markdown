@@ -29,6 +29,10 @@ PunctConnect is an innovative application that transforms the way you enjoy rewa
 * **Role:** Frontend Developer
 * **Email:** [olivia@punctconnect.com](mailto:olivia@punctconnect.com)
 
+### Mihai Preda
+* **Role:** Business Analyst
+* **Email:** [mihai@punctconnect.com](mailto:mihai@punctconnect.com)
+
 # Problem Description
 
 In today's digital age, consumers face the hassle of managing multiple loyalty programs for various stores. Each store has its dedicated app, leading to a cluttered and disorganized experience on their smartphones. This not only consumes precious storage space but also makes it difficult for users to keep track of their rewards effectively.
@@ -87,15 +91,11 @@ The increase in the number of apps has caused many people to feel exasperated, w
 
 Looking into the Romanian market of applications, we found multiple platforms for  retailer chains, fast-food stores, and even jewelry shops.
 
-| <img src="images/lidl.jpeg" alt="Lidl" width="200"/>  |<img src="images/carrefour.jpeg" alt="Carrefour" width="200"/> | <img src="images/mac.jpeg" alt="McDonalds" width="200"/> | <img src="images/sephora.jpeg" alt="Sephora" width="200"/> 
+<img src="images/lidl.jpeg" alt="Lidl" width="200"/> | <img src="images/carrefour.jpeg" alt="Carrefour" width="200"/> | <img src="images/mac.jpeg" alt="McDonalds" width="200"/> | <img src="images/sephora.jpeg" alt="Sephora" width="200"/> 
 
-Moreover, certain platforms, such as Starbucks, only offer a web-like layout, which is not optimized for mobile devices. What is more, it requires the user to log in every time they want to access the platform.
+Moreover, certain platforms, such as Starbucks, only offer a web-like layout, which is not optimized for mobile devices. What is more, it requires the user to log in every time they want to access the platform. While preinstalled solutions, such as Apple Wallet, include multiple cards, it is not possible to see the points balance or redeem rewards.
 
-<img src="images/starbucks1.jpeg" alt="Starbucks1" width="200"/> | <img src="images/starbucks2.jpeg" alt="Starbucks2" width="200"/>
-
-While preinstalled solutions, such as Apple Wallet, include multiple cards, it is not possible to see the points balance or redeem rewards.
-
-<img src="images/apple.jpg" alt="Apple Wallet" width="200"/>
+<img src="images/starbucks1.jpeg" alt="Starbucks1" height="400"/> | <img src="images/starbucks2.jpeg" alt="Starbucks2" height="400"/> | <img src="images/apple.jpg" alt="Apple Wallet" height="400"/>
 
 # How to beat app fatigue
 The solution envisioned is PunctConnect, an app designed to consolidate various loyalty programs into one platform. By offering a centralized loyalty program management system, PunctConnect aims to reduce app clutter, save phone storage space, and simplify the user experience.
@@ -126,7 +126,9 @@ The full results of the survey are provided in the following [report](https://dr
 * ~90% of the participants use loyalty platforms at least once a week.
 * An overwhelming 90.5 percent of the participants would switch to an app that consolidates all their loyalty programs. Out of these, 52.4 percent would switch immediately.
 
-<img src="images/howlikely.png" alt="Likeliness" width="300"/> | <img src="images/frustrations.png" alt="Frustrations" width="300"/>
+<img src="images/howlikely.png" alt="Likeliness" width="99%" />
+
+<img src="images/frustrations.png" alt="Frustrations" width="99%"  />
 
 # Customer Validation stage plans
 Given the insights obtained from customer discovery, it is reasonable to move to the customer validation stage. Here’s why:
@@ -150,3 +152,65 @@ Loyalty programs directory and loyalty page for one store:
 
 <img src="images/LoyaltyProgramDirectory.png" alt="Likeliness" width="300"/> | <img src="images/LoyaltyProgram1.png" alt="Frustrations" width="300"/>
 
+## Interviews with Potential Users 
+
+<table>
+  <tr>
+    <th>Person</th>
+    <th>Pros</th>
+    <th>Cons</th>
+    <th>Interviewed By</th>
+  </tr>
+  <tr>
+    <td>Andrei</td>
+    <td>- Enjoys the idea of centralizing loyalty programs<br>- Finds the concept time-saving and convenient<br>- Appreciates the potential for exclusive offers</td>
+    <td>- Concerns about data security and privacy<br>- Wants assurance that all his favorite stores are included<br>- Worried about potential technical glitches</td>
+    <td>Ionel</td>
+  </tr>
+  <tr>
+    <td>Dan</td>
+    <td>- Overwhelmed with current loyalty apps, likes centralization concept<br>- Likes the idea of managing rewards in one place<br>- Interested in exclusive offers and discounts</td>
+    <td>- Concerns about potential complexity of the app<br>- Wants assurance of easy navigation within the app<br>- Concerned about potential loss of individual store perks</td>
+    <td>Bogdan</td>
+  </tr>
+  <tr>
+    <td>Diana</td>
+    <td>- Excited about the idea of loyalty programs for tech-related shops<br>- Likes the concept of a unified platform for tech stores<br>- Eager to explore new tech-related loyalty programs</td>
+    <td>- Concerns about the app covering a broad range of stores<br>- Wants assurance of a diverse range of exclusive offers<br>- Worried about potential bugs in the app</td>
+    <td>Olivia</td>
+  </tr>
+  <tr>
+    <td>Alex</td>
+    <td>- Might consider using the app for visibility and simplicity<br>- Interested in a seamless and user-friendly experience<br>- Open to the idea if the app gains popularity</td>
+    <td>- Concerns about time investment in setting up the app<br>- Wants assurance of minimal disruptions to his routine<br>- Skeptical about the actual benefits of loyalty programs</td>
+    <td>Mihai</td>
+  </tr>
+</table>
+
+
+
+
+## User Persona
+
+
+<p style="display: flex; align-items: center; justify-content: center;"><img src="images/emma.jpg" alt="Round Image" style="border-radius: 50%; width: 100px; height: 100px;margin-right: 10px">  Meet Emma, a vibrant 30-year-old marketing manager with a passion for efficiency. Having graduated with honors in Business Administration, Emma thrives in the dynamic world of marketing. She enjoys exploring the latest tech trends and often shops at a mix of local boutiques and online tech stores. With a moderate tech proficiency, Emma values time-saving solutions. Her busy schedule as a marketing professional makes her seek streamlined approaches, and she appreciates exclusive offers.</p>
+**Demographics:**
+- Age: 30
+- Occupation: Marketing Manager
+- Technology Proficiency: Moderate
+- Shopping Behavior: Occasional shopper, values time and efficiency
+
+**Goals:**
+- Simplify and centralize loyalty programs
+- Save time and space on her phone
+- Enjoy exclusive offers and discounts
+
+**Pain Points:**
+- Difficulty managing multiple loyalty apps
+- Limited storage space on the phone
+- Lack of time for intricate loyalty program setups
+
+**Behaviors:**
+- Prefers apps that are easy to navigate
+- Values personalized and exclusive offers
+- Open to adopting new digital solutions if they provide clear benefits
