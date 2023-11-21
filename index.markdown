@@ -84,7 +84,7 @@ Our primary revenue streams include:
 By addressing the project's key aspects in a clear and visually appealing manner, we aim to convey the essence of PunctConnect and the dedicated team behind it. For further inquiries, feel free to reach out to our team members via email. Thank you for considering PunctConnect as your loyalty rewards solution!
 
 # Identifying the problem
-We noticed the problem upon a combination of market research, feedback from the customers from various stores, and personal observation. In the initial phase, a series of questionnaires for frequent shoppers highlighted the frustration with managing multiple loyalty applications. 
+We noticed the problem through a combination of market research, feedback from the customers from various stores, and personal observation. In the initial phase, a series of questionnaires for frequent shoppers highlighted the frustration with managing multiple loyalty applications. 
 By observing the market, we further confirmed that the average smartphone user is increasingly concerned about the number of apps they manage, and clutter is a growing problem.
 
 The increase in the number of apps has caused many people to feel exasperated, which describes the concept of [App Fatigue](https://www.storyly.io/post/too-many-apps-for-that-app-fatigue). Moreover, [it only takes a week](https://www.insiderintelligence.com/content/most-apps-get-deleted-within-a-week) for the average smartphone user to delete an app. At the same time, [30% of app downloads in North America—as measured by Tune’s customers between November 2017 and May 2018—were reinstalls](https://www.insiderintelligence.com/content/smartphone-users-are-reinstalling-apps-at-a-surprisingly-high-rate).
@@ -120,7 +120,7 @@ The customer discovery plan includes conducting surveys with numerous participan
 # Insights
 The full results of the survey are provided in the following [report](https://drive.google.com/file/d/1XY4y7p-2wnplP2ZGdmFMZ4Tz_4TacI1N/view?usp=sharing).
 * All of the participants use at least one loyalty program app. Moreover, more than 6 out of 10 use at least 2 apps.
-* People are mostly frustrated that they are not notified about the offfers of the store and that they have to install several apps. Therefore, our focus will be on these two aspects so that the users will not miss any offer.
+* People are mostly frustrated that they are not notified about the offers of the store and that they have to install several apps. Therefore, our focus will be on these two aspects so that the users will not miss any offer.
 * Less than 3 out of 10 individuals do not care about the storage space issue on their phone. As a result, while we will take into account the storage space issue, it will not be a priority.
 * An overwhelming amount of people would appreciate that a loyalty program app should be easy to use. Moreover, they would like to be in touch with the newest offers of their favorite retailers.
 * ~90% of the participants use loyalty platforms at least once a week.
@@ -142,7 +142,7 @@ In the future, we want to develop a Minimum Viable Product so that the users can
 The customers are greeted with a straight-to-the-point, modernly-designed [landing page](https://punctconnect.github.io/demo), outlined to elevate their interaction with the platform.
 
 # Wireframe
-This is how we imagine the flow of the platform. Keep in mind that this is just an ideea and the mockup might look slightly different.
+This is how we imagine the flow of the platform. Keep in mind that this is just an idea and the mockup might look slightly different.
 
 SignUp page and dashboard:
 
@@ -193,7 +193,7 @@ Loyalty programs directory and loyalty page for one store:
 ## User Persona
 
 
-<p style="display: flex; align-items: center; justify-content: center;"><img src="images/emma.jpg" alt="Round Image" style="border-radius: 50%; width: 100px; height: 100px;margin-right: 10px">  Meet Emma, a vibrant 30-year-old marketing manager with a passion for efficiency. Having graduated with honors in Business Administration, Emma thrives in the dynamic world of marketing. She enjoys exploring the latest tech trends and often shops at a mix of local boutiques and online tech stores. With a moderate tech proficiency, Emma values time-saving solutions. Her busy schedule as a marketing professional makes her seek streamlined approaches, and she appreciates exclusive offers.</p>
+<p style="display: flex; align-items: center; justify-content: center;"><img src="images/emma.jpg" alt="Round Image" style="border-radius: 50%; width: 100px; height: 100px;margin-right: 10px">  Meet Emma, a vibrant 30-year-old marketing manager with a passion for efficiency. Having graduated with honors in Business Administration, Emma thrives in the dynamic world of marketing. She enjoys exploring the latest tech trends and often shops at a mix of local boutiques and online tech stores. With moderate tech proficiency, Emma values time-saving solutions. Her busy schedule as a marketing professional makes her seek streamlined approaches, and she appreciates exclusive offers.</p>
 **Demographics:**
 - Age: 30
 - Occupation: Marketing Manager
