@@ -102,8 +102,8 @@ The solution envisioned is PunctConnect, an app designed to consolidate various 
 
 # Customer discovery
 The customer discovery plan includes conducting surveys with numerous participants who frequently use loyalty programs. The goal is to understand their habits, preferences, and pain points. The survey will be conducted online, in a Google Form, and the participants will be recruited through social media. 
-dentifying Customer Segments
 
+## Identifying Customer Segments
 
 * Demographics: Target customers who are frequent shoppers, both online and in physical stores, and who use smartphones.
 * Behaviors: Focus on those who actively participate in loyalty programs and have expressed frustration with the current system.
@@ -139,7 +139,7 @@ Given the insights obtained from customer discovery, it is reasonable to move to
 In the future, we want to develop a Minimum Viable Product so that the users can test it. We will gather feedback and the following iterations will ensure that the solution fits the needs of the users. By using metrics such as time spent on the app and how often the users access it, we will be able to measure the engagement of the users. Finally, we are ready to validate the assumptions about user behavior through real-world testing. 
 
 # Landing page
-The customers are greeted with a straight-to-the-point, modernly-designed [landing page](https://punctconnect.github.io/demo) designed to elevate their interaction with the platform.
+The customers are greeted with a straight-to-the-point, modernly-designed [landing page](https://punctconnect.github.io/demo), outlined to elevate their interaction with the platform.
 
 # Wireframe
 This is how we imagine the flow of the platform. Keep in mind that this is just an ideea and the mockup might look slightly different.
