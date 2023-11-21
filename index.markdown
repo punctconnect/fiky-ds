@@ -239,7 +239,7 @@ Loyalty programs directory and loyalty page for one store:
   - *Benefit:* Reach wider audience, provide seamless customer experience.
 
 
-# User Flows
+## User Flows
 
 1. **Account Creation and Setup**
    - **Actions:** 
