@@ -214,3 +214,54 @@ Loyalty programs directory and loyalty page for one store:
 - Prefers apps that are easy to navigate
 - Values personalized and exclusive offers
 - Open to adopting new digital solutions if they provide clear benefits
+
+## User Stories
+
+- **As a Frequent Shopper**
+  - *Goal:* Manage all loyalty programs in one centralized app.
+  - *Benefit:* Easily track and redeem rewards, reduce phone clutter.
+
+- **As a Busy Professional**
+  - *Goal:* Quick, easy access to loyalty rewards.
+  - *Benefit:* Save time and space on phone.
+
+- **As a Senior Citizen**
+  - *Goal:* Easy-to-navigate app for managing loyalty rewards.
+  - *Benefit:* Simplify the loyalty program experience.
+
+
+- **As a Student on a Budget**
+  - *Goal:* Maximize rewards and discounts in one app.
+  - *Benefit:* Manage finances effectively.
+
+- **As a Retailer**
+  - *Goal:* Integrate store’s loyalty program with PunctConnect.
+  - *Benefit:* Reach wider audience, provide seamless customer experience.
+
+
+# User Flows
+
+1. **Account Creation and Setup**
+   - **Actions:** 
+     - Download PunctConnect.
+     - Create user account.
+     - Link existing loyalty programs.
+   - **Outcome:** All loyalty programs managed in one place.
+
+2. **Viewing and Managing Rewards**
+   - **Actions:** 
+     - Access centralized dashboard.
+     - Check points and rewards.
+   - **Outcome:** Efficient tracking and redemption of rewards.
+
+3. **Receiving and Utilizing Offers**
+   - **Actions:** 
+     - Receive and view exclusive offers.
+     - Redeem offers while shopping.
+   - **Outcome:** Enhanced shopping experience with exclusive benefits.
+
+4. **Feedback and Customization**
+   - **Actions:** 
+     - Provide user feedback.
+     - Experience personalized customization.
+   - **Outcome:** Tailored app experience based on user preferences.
