@@ -1,4 +1,3 @@
----
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
@@ -265,3 +264,9 @@ Loyalty programs directory and loyalty page for one store:
      - Provide user feedback.
      - Experience personalized customization.
    - **Outcome:** Tailored app experience based on user preferences.
+  
+## Lead Generating Campaign
+- **Forms**  
+  -  We use FormSpree to subscribe interested future customers to our newsletter. This allows us to have a customizable approach to gathering data in a structured manner, whilst being transparent on what we fetch from users.
+  -  ![image](https://github.com/punctconnect/fiky-ds/assets/45497418/09680201-1f24-4aef-838f-639eef80cf84)
+
