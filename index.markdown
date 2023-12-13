@@ -78,6 +78,7 @@ Our cost structure includes:
 Our primary revenue streams include:
 - **Subscription Model:** Offering premium features and services for a subscription fee.
 - **Partnerships:** Collaborating with stores to generate revenue through promotional offers.
+- **In-App Advertisements:** Providing advertising space within the app for brands to reach our user base.
 
 # Connect with PunctConnect
 
