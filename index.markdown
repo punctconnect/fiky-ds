@@ -271,3 +271,6 @@ Loyalty programs directory and loyalty page for one store:
   -  We use FormSpree to subscribe interested future customers to our newsletter. This allows us to have a customizable approach to gathering data in a structured manner, whilst being transparent on what we fetch from users.
   -  ![image](https://github.com/punctconnect/fiky-ds/assets/45497418/09680201-1f24-4aef-838f-639eef80cf84)
 
+## Bringing people on our page
+We chose to share our page on Instagram because we find Instagram an excellent choice for promoting our discount platform. Its popularity and focus on visuals let us present our discounts attractively and engagingly. By using popular hashtags and collaborating with influencers, we can reach a wide audience that's keen on finding new deals. Instagram's user-friendly design makes it easy for people to see and appreciate our discounts, making it a great way to attract new users to our platform.
+<img src="images/InstagramShare.png" alt="Likeliness" width="300"/> | <img src="images/LoyaltyProgram1.png" alt="Frustrations" width="300"/>
