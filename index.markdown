@@ -273,4 +273,4 @@ Loyalty programs directory and loyalty page for one store:
 
 ## Bringing people on our page
 We chose to share our page on Instagram because we find Instagram an excellent choice for promoting our discount platform. Its popularity and focus on visuals let us present our discounts attractively and engagingly. By using popular hashtags and collaborating with influencers, we can reach a wide audience that's keen on finding new deals. Instagram's user-friendly design makes it easy for people to see and appreciate our discounts, making it a great way to attract new users to our platform.
-<img src="images/InstagramShare.png" alt="Likeliness" width="300"/> | <img src="images/LoyaltyProgram1.png" alt="Frustrations" width="300"/>
+<img src="images/InstagramShare.PNG" alt="Likeliness" width="300"/>
