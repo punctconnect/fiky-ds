@@ -273,4 +273,7 @@ Loyalty programs directory and loyalty page for one store:
 
 ## Bringing people on our page
 We chose to share our page on Instagram because we find Instagram an excellent choice for promoting our discount platform. Its popularity and focus on visuals let us present our discounts attractively and engagingly. By using popular hashtags and collaborating with influencers, we can reach a wide audience that's keen on finding new deals. Instagram's user-friendly design makes it easy for people to see and appreciate our discounts, making it a great way to attract new users to our platform.
-<img src="images/InstagramShare.PNG" alt="Likeliness" width="300"/>
+<img src="images/InstaShare.PNG" alt="Likeliness" width="300"/>
+
+We also chose to share it on WhatsApp cause we see WhatsApp as a valuable tool for promoting our platform due to its direct and personal communication style. With this, we can send updates and discount offers directly to our audience's phones, making it more likely they'll see and engage with them. This platform allows for the creation of groups or broadcast lists, where we can share deals and updates with a large number of people at once, while still maintaining a personal touch. Plus, the widespread use of WhatsApp means we can reach a diverse and extensive audience. This direct and personalized approach can be especially effective for word-of-mouth marketing, as users can easily share our discounts with friends and family.
+<img src="images/WappShare.jpg" alt="Likeliness" width="300"/>
