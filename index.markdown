@@ -289,8 +289,39 @@ As outlined previously, our market consists of frequent shoppers, tech-savvy con
 )
 , there are **3.5 million people** working in the services sector in Romania. This will be our initial target market. Should we hit a plateau, we will expand to other segments of the market. For example, [according to Newzoo, there are **10.5 million smartphone users** in Romania.
 
-There is scarcity in data regarding the usage of loyalty programs in Romania. However, we will make an approximation based on the installation numbers on Google Play for the competition, in the following points.
+Globally, [50%](https://data.worldbank.org/indicator/SL.SRV.EMPL.ZS) of the [working population](https://www.cia.gov/the-world-factbook/field/labor-force/country-comparison/) is employed in the services sector. This means that there are around **1.6 billion people** working in the services sector.
 
-## Comp
+There is scarcity in data regarding the usage of loyalty programs in Romania. However, we will make an approximation based on the installation numbers on Google Play and official press releases for the competition, in the following points.
 
- 
+## Competition brief view
+
+We have found 5 main competitors in the global market.
+
+[**Apple Wallet**](https://techreport.com/statistics/apple-pay-users/#) has 507 million global users. However, it is only available on iOS and Romania is an [Android-dominated market](https://gs.statcounter.com/os-market-share/mobile/romania), with only about 1 in 4 individuals owning a smartphone running iOS.
+
+Similarly, [**Google Wallet**](https://earthweb.com/how-many-people-use-google-pay/) has over 150 million users worldwide. However, Apple and Google Pay are not dedicated loyalty program apps, but rather digital wallets. 
+
+[**Stocard**](https://play.google.com/store/apps/details?id=de.stocard.stocard&hl=en_CA) has over 70 million users in more than 40 countries. 
+
+[**Fidme**](https://www.appbrain.com/dev/Fidme/) has over 5 million users worldwide.
+
+[**VirtualCards**](https://www.virtualcardsapp.com/en/) has over 700.000 users.
+
+## Market share
+
+It is difficult to estimate the number of users of the competition in Romania based on the available statistics. We will assume firstly that the global market share is similar to the Romanian market share. Secondly, we will improve the previous assumption with the observation that that the number of Apple Wallet users should be around 25% of the number of Google Wallet users, based on the market share of iOS in Romania. 
+
+Therefore we estimate the state of the loyalty program aggregator market as follows:
+- Google Wallet: 56%
+- Stocard: 26%
+- Apple Wallet: 14%
+- Fidme: 1%
+- Others: 3%
+
+## Estimation on our market share
+
+We have also found a [statistic](https://www.statista.com/statistics/946372/number-of-users-of-stocard-in-belgium-and-the-netherlands/) from 2020 of the growth of Stocard in Belgium and Netherlands. It is unfortunately hidden behind a paywall, but we can see a brief summary of the statistic.
+
+![Alt text](image.png)
+
+We can observe that the number of users has grown from around 500 in 2017 to 1000 in 2018, 2000 in 2019 and 3000 in 2020. We expect our growth to follow a similar trend, with users having a 50%-100% increase year over year, plateauing at around 1 million users in Romania, if the business model is successful.
