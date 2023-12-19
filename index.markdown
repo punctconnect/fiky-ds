@@ -325,3 +325,33 @@ We have also found a [statistic](https://www.statista.com/statistics/946372/numb
 ![Alt text](image.png)
 
 We can observe that the number of users has grown from around 500 in 2017 to 1000 in 2018, 2000 in 2019 and 3000 in 2020. We expect our growth to follow a similar trend, with users having a 50%-100% increase year over year, plateauing at around 1 million users in Romania, if the business model is successful.
+
+Considering our competitive landscape and market dynamics in Romania, here's our revised market share and value estimation for the first five years post-launch:
+
+Year 1: We'll aim for a 5-10% market share, focusing on the dominant Android user base in Romania and differentiating ourselves from competitors like VirtualCards.
+Years 2-5: We anticipate a yearly growth of 10% in market share. By Year 2, we aim to capture 15%, increasing to 20% in Year 3, 25-30% in Year 4, and 30-40% by Year 5.
+
+
+## Total Market Value
+We are working with an estimated total market value of $2 million for the Romanian loyalty program market.
+
+**Our Market Share Value Projection:**
+
+- Year 1: Aiming for a 5-10% market share, our value in the market would range from $100,000 (5% of $2 million) to $200,000 (10% of $2 million).
+- Year 2: With a projected growth to 15% market share, our value would be approximately $300,000 (15% of $2 million).
+- Year 3: Increasing our market share to 20%, we anticipate a value of around $400,000 (20% of $2 million).
+- Year 4: Targeting a 25-30% market share, our projected value would be between $500,000 (25% of $2 million) and $600,000 (30% of $2 million).
+- Year 5: Aiming for a 30-40% market share, we could expect our value to be in the range of $600,000 (30% of $2 million) to $800,000 (40% of $2 million).
+
+We have planned an aggressive growth strategy to increase our market share, which reflects our confidence in PunctConnect's unique value proposition. Our primary focus is to take advantage of the predominantly Android market in Romania. Based on our strategic plans, we estimate that we will effectively compete with and differentiate from existing players, especially in areas where iOS-focused solutions like Apple Wallet have less reach.
+
+However, please note that these figures are projections based on our current understanding of the market and our competitive strategy. Several factors, including market response, operational efficiencies, and external economic conditions, will impact the actual performance. Regular monitoring and strategic adjustments will be crucial to achieving these targets.
+
+
+## Conclusion Regarding Profitability
+
+Considering the ambitious market share growth projections and the estimated market value of the Romanian loyalty program market, PunctConnect is positioned for a promising financial trajectory. Our approach, focusing on the dominant Android user base and differentiating from competitors, positions us well to capture a significant portion of the market.
+
+With our market share targets ranging from 5% to 40% over the first five years and the total market value estimated at $2 million, we anticipate a steady increase in revenue. This growth is expected to be progressive, reflecting both our expanding market presence and the maturation of our offerings.
+
+It is important to note that these projections are based on current market conditions and our strategic plans. We'll need to remain adaptable and responsive to market changes, customer feedback, and competitive dynamics to ensure the long-term success and profitability.
