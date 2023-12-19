@@ -50,7 +50,7 @@ Our target customer segments include:
 
 # Competition
 
-Our main competitors in this space are other loyalty program apps, such as **LoyaltyLoop**. These apps also aim to streamline loyalty programs, but PunctConnect offers unique features and benefits.
+Our main competitors in this space are other loyalty program apps, such as **Stocard**. These apps also aim to streamline loyalty programs, but PunctConnect offers unique features and benefits.
 
 # Advantage Over the Competition
 
@@ -280,3 +280,17 @@ We chose to share our page on Instagram because we find Instagram an excellent c
 We also chose to share it on WhatsApp cause we see WhatsApp as a valuable tool for promoting our platform due to its direct and personal communication style. With this, we can send updates and discount offers directly to our audience's phones, making it more likely they'll see and engage with them. This platform allows for the creation of groups or broadcast lists, where we can share deals and updates with a large number of people at once, while still maintaining a personal touch. Plus, the widespread use of WhatsApp means we can reach a diverse and extensive audience. This direct and personalized approach can be especially effective for word-of-mouth marketing, as users can easily share our discounts with friends and family.
 
 <img src="images/WappShare.jpg" alt="Likeliness" width="300"/>
+
+# Market research
+
+## Size of the target market
+As outlined previously, our market consists of frequent shoppers, tech-savvy consumers and busy professionals. As a result, we would focus on the segment of individuals working in white collar jobs [According to EURES (European Employment Services)](
+  https://eures.europa.eu/living-and-working/labour-market-information/labour-market-information-romania_en
+)
+, there are **3.5 million people** working in the services sector in Romania. This will be our initial target market. Should we hit a plateau, we will expand to other segments of the market. For example, [according to Newzoo, there are **10.5 million smartphone users** in Romania.
+
+There is scarcity in data regarding the usage of loyalty programs in Romania. However, we will make an approximation based on the installation numbers on Google Play for the competition, in the following points.
+
+## Comp
+
+ 
