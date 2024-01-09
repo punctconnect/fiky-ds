@@ -364,13 +364,13 @@ We discussed with two major stores in Romania: Lidl, which already has a loyalty
 
 The discussion with Supermarket La Cocoș was favorable. We tried to look for their weak points, and we indeed found that the lack of an advanced digital platform's effects are felt.
 
-![eb128ee7-b503-4b0d-b26b-4dcb498fd9c7](https://github.com/punctconnect/fiky-ds/assets/45497418/48953b4b-0ff9-4fb4-8709-f5789997090a)
+![image](https://github.com/punctconnect/fiky-ds/assets/45497418/352ea218-feb3-49cf-91a5-edbd026f343b)
 
 Upon showing them an initial version of the MVP, they said they are open to collaboration, provided we can somehow prove the growth of customers via a more advanced plan, that we can support the shop personnel, and that we can protect the users' data.
 
 ### Lidl
 
-![3f9c9fb8-1760-4411-89e7-5a1efb0075a1](https://github.com/punctconnect/fiky-ds/assets/45497418/64815a8d-37d1-4cfe-a6f7-f2d3673075be)
+![image](https://github.com/punctconnect/fiky-ds/assets/45497418/9e7d44ca-e2bd-4dbf-be06-20485633fbae)
 
 After an email-based discussion with Lidl, we realized our option is not feasible for large, established stores. They would already have a popular loyalty app for which they devote their effort and costs. In particular, the Lidl representatives considered, and rightfully so, that the costs of migration and training the devs would outweigh the benefits.
 
