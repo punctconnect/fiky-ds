@@ -354,4 +354,26 @@ Considering the ambitious market share growth projections and the estimated mark
 
 With our market share targets ranging from 5% to 40% over the first five years and the total market value estimated at $2 million, we anticipate a steady increase in revenue. This growth is expected to be progressive, reflecting both our expanding market presence and the maturation of our offerings.
 
-It is important to note that these projections are based on current market conditions and our strategic plans. We'll need to remain adaptable and responsive to market changes, customer feedback, and competitive dynamics to ensure the long-term success and profitability.
+It is important to note that these projections are based on current market conditions and our strategic plans. We must remain adaptable and responsive to market changes, customer feedback, and competitive dynamics to ensure long-term success and profitability.
+
+## First Sale
+
+We discussed with two major stores in Romania: Lidl, which already has a loyalty app, and Supermarket Cocoș.
+
+### Supermarket La Cocoș
+
+The discussion with Supermarket La Cocoș was favorable. We tried to look for their weak points, and we indeed found that the lack of an advanced digital platform's effects are felt.
+
+![eb128ee7-b503-4b0d-b26b-4dcb498fd9c7](https://github.com/punctconnect/fiky-ds/assets/45497418/48953b4b-0ff9-4fb4-8709-f5789997090a)
+
+Upon showing them an initial version of the MVP, they said they are open to collaboration, provided we can somehow prove the growth of customers via a more advanced plan, that we can support the shop personnel, and that we can protect the users' data.
+
+### Lidl
+
+![3f9c9fb8-1760-4411-89e7-5a1efb0075a1](https://github.com/punctconnect/fiky-ds/assets/45497418/64815a8d-37d1-4cfe-a6f7-f2d3673075be)
+
+After an email-based discussion with Lidl, we realized our option is not feasible for large, established stores. They would already have a popular loyalty app for which they devote their effort and costs. In particular, the Lidl representatives considered, and rightfully so, that the costs of migration and training the devs would outweigh the benefits.
+
+### Conclusions
+
+We concluded that our platform would only be a good idea for smaller shops, or stores without a digital platform. However, it is not practical to approach bigger names, due to their already-established digital identity.
