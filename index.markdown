@@ -368,6 +368,8 @@ The discussion with Supermarket La Cocoș was favorable. We tried to look for th
 
 Upon showing them an initial version of the MVP, they said they are open to collaboration, provided we can somehow prove the growth of customers via a more advanced plan, that we can support the shop personnel, and that we can protect the users' data.
 
+After these findings, we updated our MVP to include a [Privacy Policy Page](https://punctconnect.github.io/demo/privacy) through which users consent for us to use their data (email, phone) responsibly and share them with data analysis software (like Google Analytics).
+
 ### Lidl
 
 ![image](https://github.com/punctconnect/fiky-ds/assets/45497418/9e7d44ca-e2bd-4dbf-be06-20485633fbae)
