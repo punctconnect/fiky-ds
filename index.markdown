@@ -378,4 +378,6 @@ After an email-based discussion with Lidl, we realized our option is not feasibl
 
 ### Conclusions
 
+The MVP's main functionality, upon taking the feedback into account is accessible [here](https://acs-punctconnect.vercel.app/). We initially thought of having a stack-like layout, as Google Wallet does. This approach works if we want the user to see a specific platform first, perhaps because it is also one of the advertiser supporters of the app. However, finding out earlier from surveyed individuals that they 6 out of 10 of them use multiple loyalty apps, a user will see 3-4 stores when opening the main page. 
+
 We concluded that our platform would only be a good idea for smaller shops, or stores without a digital platform. However, it is not practical to approach bigger names, due to their already-established digital identity.
