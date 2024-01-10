@@ -121,7 +121,7 @@ dentifying Customer Segments
 # Insights
 The full results of the survey are provided in the following [report](https://drive.google.com/file/d/1XY4y7p-2wnplP2ZGdmFMZ4Tz_4TacI1N/view?usp=sharing).
 * All of the participants use at least one loyalty program app. Moreover, more than 6 out of 10 use at least 2 apps.
-* People are mostly frustrated that they are not notified about the offfers of the store and that they have to install several apps. Therefore, our focus will be on these two aspects so that the users will not miss any offer.
+* People are mostly frustrated that they are not notified about the offers of the stores and that they have to install several apps. Therefore, our focus will be on these two aspects so that the users will not miss any offers.
 * Less than 3 out of 10 individuals do not care about the storage space issue on their phone. As a result, while we will take into account the storage space issue, it will not be a priority.
 * An overwhelming amount of people would appreciate that a loyalty program app should be easy to use. Moreover, they would like to be in touch with the newest offers of their favorite retailers.
 * ~90% of the participants use loyalty platforms at least once a week.
@@ -356,11 +356,39 @@ With our market share targets ranging from 5% to 40% over the first five years a
 
 It is important to note that these projections are based on current market conditions and our strategic plans. We must remain adaptable and responsive to market changes, customer feedback, and competitive dynamics to ensure long-term success and profitability.
 
-## First Sale
+## Working with feedback. [MVP](https://acs-punctconnect.vercel.app/)
 
-We discussed with two major stores in Romania: Lidl, which already has a loyalty app, and Supermarket Cocoș.
+We took into account what we learned from users and we discussed with two major stores in Romania: Lidl, which already has a loyalty app, and Supermarket Cocoș.
+By using these two valuable sources of reference, we managed to construct an [MVP](https://acs-punctconnect.vercel.app/).
 
-### Supermarket La Cocoș
+### MVP features and insights from user-based feedback 
+We initially thought of having an app with a stack-like layout to show offers, or cards, as Google Wallet does for their credit cards.
+
+![image](https://github.com/punctconnect/fiky-ds/assets/45497418/2f747870-7137-498d-8039-33bf75f48d92)
+
+This approach works if we want the user to see a specific platform first, perhaps because it is also one of the advertiser supporters of the app. 
+The following pieces of feedback show the reasoning for scrapping this idea.
+
+#### 6 out of 10 are frustrated by the lack of notifications about the offers of the stores
+It is difficult to see how intrusive notifications are for users. For some people, [it can even trigger anxiety](https://www.wockhardthospitals.com/articles/mental-health/psychiatrist-explains-how-turning-off-phone-notifications-can-improve-your-mental-health/#:~:text=Constant%20notifications%20trigger%20anxiety&text=This%20constant%20bombardment%20of%20information,variety%20of%20mental%20health%20issues.). For now, we opted to inform the users of offers via the home page instead of notifications. This is, in our view, a compromise between informing customers and not bothering them too much with messages.
+
+![image](https://github.com/punctconnect/fiky-ds/assets/45497418/51160cfd-1723-461f-a75c-d9353d7ecd45)
+
+#### 6 out of 10 use at least 2 loyalty apps
+This is why we opted to have a singular QR code. It eliminates the hassle of steps of browsing loyalty cards and choosing the platform. 
+![image](https://github.com/punctconnect/fiky-ds/assets/45497418/ab630d71-5ab4-40d4-9635-94e43451c100)
+
+#### 8 out of 10 consider of at least somewhat importance storage concerns
+We opted to use a web-based platform instead of a classic app. All you need is a shortcut. And this functionality is supported for all of the major platform (Android, iOS, Windows, Linux). We also created PunctConnect to have a responsive design, regardless of the size of the screen.
+
+![image](https://github.com/punctconnect/fiky-ds/assets/45497418/68d199c8-1ed5-4d53-a1f3-b4732580ba29)
+
+
+![image](https://github.com/punctconnect/fiky-ds/assets/45497418/f51d8de0-4b3d-4f1d-a571-d874b9ff2afb)
+
+### MVP features and insights from store-based feedback 
+
+#### Supermarket La Cocoș
 
 The discussion with Supermarket La Cocoș was favorable. We tried to look for their weak points, and we indeed found that the lack of an advanced digital platform's effects are felt.
 
@@ -370,14 +398,12 @@ Upon showing them an initial version of the MVP, they said they are open to coll
 
 After these findings, we updated our MVP to include a [Privacy Policy Page](https://punctconnect.github.io/demo/privacy) through which users consent for us to use their data (email, phone) responsibly and share them with data analysis software (like Google Analytics).
 
-### Lidl
+#### Lidl
 
 ![image](https://github.com/punctconnect/fiky-ds/assets/45497418/9e7d44ca-e2bd-4dbf-be06-20485633fbae)
 
 After an email-based discussion with Lidl, we realized our option is not feasible for large, established stores. They would already have a popular loyalty app for which they devote their effort and costs. In particular, the Lidl representatives considered, and rightfully so, that the costs of migration and training the devs would outweigh the benefits.
 
-### Conclusions
-
-The MVP's main functionality, upon taking the feedback into account is accessible [here](https://acs-punctconnect.vercel.app/). We initially thought of having a stack-like layout, as Google Wallet does. This approach works if we want the user to see a specific platform first, perhaps because it is also one of the advertiser supporters of the app. However, finding out earlier from surveyed individuals that they 6 out of 10 of them use multiple loyalty apps, a user will see 3-4 stores when opening the main page. 
+#### Conclusions
 
 We concluded that our platform would only be a good idea for smaller shops, or stores without a digital platform. However, it is not practical to approach bigger names, due to their already-established digital identity.
